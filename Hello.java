@@ -3,5 +3,6 @@ public class Hello{
 		int a = 4;
 
 		System.out.println("This is java app with git");  
+		System.out.println(a + 8); 
 	}  
 }  
